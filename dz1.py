@@ -19,7 +19,7 @@ def Task1():
     elif num_day == 4:
         print('Четверг')
     elif num_day == 5:
-        print('Пятницы')
+        print('Пятница')
     elif num_day == 6:
         print('Суббота')
     elif num_day == 7:
@@ -73,4 +73,4 @@ def Task4():
     else:
         print("Работа цикла завершена")
 
-
+Task1()

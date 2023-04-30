@@ -66,10 +66,7 @@ def zadacha4():
             if num % div == 0:
                 count_div += 1
                 if count == 10:
-    print(f'колличество чисел, у которых 10 делителей, равно {count}')
-zadacha4()
-
-
+                    print(f'колличество чисел, у которых 10 делителей, равно {count}')
 
 
 
